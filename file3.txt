@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello files 
 yellow
+=======
+hello everyone 
+>>>>>>> first_b
